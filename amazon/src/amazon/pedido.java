@@ -17,6 +17,7 @@ public class pedido {
 	}
 
 	public producto[] getArticulos() {
+		
 		return articulos;
 	}
 
